@@ -1,1 +1,23 @@
-this is my frist file
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>white--security</title>
+</head>
+
+<body>	
+<h3>hacking is not a crime</h3> 
+<p>
+Definition. Ethical hacking involves an authorized attempt to gain unauthorized access to a computer system, application, or data. Carrying out an ethical hack involves duplicating strategies and actions of malicious attackers.
+</p>
+<p>
+Attempting to evade intrusion detection systems, honeypots and firewalls. Performing network traffic analysis and sniffing using appropriate tools. Social engineering to manipulate end users and obtain information about an organization's computing environment.
+</p>
+<h3>Ethical Hacking Is It Ligel</h3>
+<p>
+Attempting to evade intrusion detection systems, honeypots and firewalls. Performing network traffic analysis and sniffing using appropriate tools. Social engineering to manipulate end users and obtain information about an organization's computing environment.
+</p>
+
+</body>
+
+</html>
